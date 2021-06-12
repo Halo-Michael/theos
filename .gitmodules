@@ -16,3 +16,6 @@
 [submodule "vendor/templates"]
 	path = vendor/templates
 	url = https://github.com/theos/templates.git
+[submodule "sdks"]
+	path = sdks
+	url = https://github.com/Halo-Michael/sdks-for-build
